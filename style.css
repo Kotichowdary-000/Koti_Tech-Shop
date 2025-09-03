@@ -148,6 +148,7 @@
       color: #888;
       text-decoration: line-through;
       margin-right: 8px;
+      margin-bottom: 10px;
     }
 
     .product .discounted-price {
@@ -175,6 +176,14 @@
     .Top-product span:hover {
       background-color: rgb(199, 5, 5);
       color: white;
+    }
+    .Top-product .Topper {
+      font-size: 20px;
+      font-weight: bold;
+      margin-right: 30px;
+      cursor: default;
+      text-align: center;
+      width: 100%;
     }
 
     .Permanant {
