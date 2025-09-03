@@ -28,6 +28,11 @@ body {
   position: relative;
   font-size: 22px;
 }
+.cart-icon img {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
 
 .cart-count {
   background: red;
